@@ -26,8 +26,12 @@ namespace FriendLetter
 
     public void Configure(IApplicationBuilder app)
     {
+      app.UseDeveloperExceptionPage();  //This is the new line of code
+      
       app.UseMvc(routes =>
       {
+
+      
           routes.MapRoute(
               name: "default",
               template: "{controller=Home}/{action=Index}/{id?}");

@@ -21,3 +21,5 @@
 /Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorTargetAssemblyInfo.cs
 /Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.Views.pdb
 /Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.csproj.CopyComplete
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/Home/Form.g.cshtml.cs
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/Home/Postcard.g.cshtml.cs
