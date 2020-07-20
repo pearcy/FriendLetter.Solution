@@ -12,3 +12,12 @@
 /Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorTargetAssemblyInfo.cache
 /Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.dll
 /Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.pdb
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.Views.dll
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.Views.pdb
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.TagHelpers.input.cache
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.TagHelpers.output.cache
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorCoreGenerate.cache
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/Razor/Views/Home/Letter.g.cshtml.cs
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorTargetAssemblyInfo.cs
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.Views.pdb
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.csproj.CopyComplete
