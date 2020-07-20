@@ -1,0 +1,14 @@
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.deps.json
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.runtimeconfig.json
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.runtimeconfig.dev.json
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.dll
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/bin/Debug/netcoreapp2.2/FriendLetter.pdb
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.csprojAssemblyReference.cache
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.csproj.CoreCompileInputs.cache
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorAssemblyInfo.cache
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorAssemblyInfo.cs
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.AssemblyInfoInputs.cache
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.AssemblyInfo.cs
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.RazorTargetAssemblyInfo.cache
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.dll
+/Users/pearcy/epicode2/9week/csharp-friend-letter/FriendLetter/obj/Debug/netcoreapp2.2/FriendLetter.pdb
